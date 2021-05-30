@@ -1,0 +1,21 @@
+.downlod-cv {
+    background: linear-gradient(to left bottom, #3f3f3f, #272727);
+    color: white;
+    border: 1px transparent;
+    border-radius: 5px;
+    font-size: 13px;
+    width: 150px;
+    height: 34px;
+    margin-top: 30px;
+     
+}
+
+
+.center-div {
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
