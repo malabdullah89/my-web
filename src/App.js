@@ -11,9 +11,9 @@ function App() {
        <Vector />
       <Header />
       <Contact />
-      <div className="center-div">
-          <button className="downlod-cv">Downlod CV</button>
-      </div>
+      <form className="center-div" action="https://drive.google.com/file/d/1rXTRjirlGTF_4sujPDt4hOwnReZidnp1/view?usp=drivesdk">
+          <button type="submit" value="downlod cv" className="downlod-cv">Downlod Resume</button>
+      </form>
       <Social  />
       <TechComponent />
     </div>
