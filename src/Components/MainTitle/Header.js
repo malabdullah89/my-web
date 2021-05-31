@@ -4,7 +4,7 @@ import './Header.css'
      return (
          <div className="Header">
             <h3> Mohammad Alabdullah </h3>
-            <p>Web and Mobile Apps Developer</p>
+            <p> Full Stack Developer</p>
             
          </div>
      )

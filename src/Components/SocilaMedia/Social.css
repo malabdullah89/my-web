@@ -1,0 +1,42 @@
+.social {
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+
+h2 {
+    
+    color: white;
+    border: 2px solid #3f3f3f;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    
+    
+}
+
+.github {
+    
+    height: 50px;
+    width: 50px;
+    
+    
+}
+
+
+.git-p {
+    margin-top: 3px;
+    font-size: 18px;
+    font-weight: lighter;
+    
+}
+
+.title-social {
+    color: rgb(7, 136, 241);
+    font-family: 'Kameron', serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top:  100px;
+    text-align: center;
+}
