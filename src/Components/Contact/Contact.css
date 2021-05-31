@@ -1,0 +1,26 @@
+.contact {
+
+    margin: 0;
+    position: absolute;
+    top: 225px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+   
+}
+
+.phone-number {
+
+    display: inline-block;   
+    font-weight: normal;
+
+    
+}
+
+.call-link {
+
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
