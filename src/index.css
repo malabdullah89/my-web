@@ -21,7 +21,7 @@
 
 
 body {
-   animation: color-change-2x 2s linear infinite alternate both; 
+   animation: color-change-2x 5s linear infinite alternate both; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
