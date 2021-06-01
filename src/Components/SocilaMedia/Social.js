@@ -15,6 +15,18 @@ const Social = () => {
                 <p className="git-p"><a className="social-link" href="https://www.youtube.com/channel/UCzHIbPbXhTAAGJldx1iYUGw">Youtube</a></p>
                 </h2>
            </div>
+
+           <div>
+                <h2><img className="instagram" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />
+                <p className="git-p"><a className="social-link" href="https://www.instagram.com/mohmdev/">Instagram</a></p>
+                </h2>
+           </div>
+
+           <div>
+                <h2><img className="instagram" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+                <p className="git-p"><a className="social-link" href="https://twitter.com/alabdullahm">Twiter</a></p>
+                </h2>
+           </div>
            
         </div>
     )

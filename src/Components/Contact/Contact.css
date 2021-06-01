@@ -9,7 +9,7 @@
 
     display: inline-block;   
     font-weight: normal;
-    font-size: 12px;
+    font-size: 14px;
 
     
 }
@@ -24,7 +24,9 @@
 
 .email-title {
     display: inline-block;
-    font-size: 12px;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
 }
 
 .w-icon {
