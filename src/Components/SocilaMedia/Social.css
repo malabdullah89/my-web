@@ -36,8 +36,16 @@ h2 {
 
 .instagram {
     margin-top: 10px;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
+    padding-top: 10px;
+ 
+}
+
+.twitter {
+    margin-top: 10px;
+    width: 35px;
+    height: 30px;
     padding-top: 10px;
  
 }
