@@ -1,4 +1,4 @@
-import VectorImg from './me2.png'
+import VectorImg from './me20.png'
 import './Vector.css'
 
 const Vector = () => {
