@@ -1,5 +1,5 @@
 .social {
-   top: 52%;
+    top: 55%;
     margin-bottom: 20px;
     display: inline-flex;
     margin: 0;
@@ -7,10 +7,19 @@
     left: 50%;
    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    
-    
+
 }
 
+
+
+
+
+
+  @media only screen and (max-width: 479px) {
+    .social {
+        top: 50%;
+    }
+  }
 
 
 .github {

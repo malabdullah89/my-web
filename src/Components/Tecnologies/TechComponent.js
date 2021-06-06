@@ -9,7 +9,7 @@ const Tech = () => {
               <li><img className="django" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"/> JavaScript</li>
               <li><img className="django" src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" alt="NodeJS"/>NodeJS </li>
               <li><img className="django" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt=">ReactJS"/>ReactJS</li>
-              <li><img className="django" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter"/>Flutter</li>
+              <li><img className="django" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3521432-2944876.png" alt="Flutter"/>Flutter</li>
               </ul> 
         </div>
     )
