@@ -4,6 +4,7 @@ import TechComponent from './Components/Tecnologies/TechComponent'
 import Vector from './Components/Vector/Vector'
 import Social from './Components/SocilaMedia/Social'
 import Contact from './Components/Contact/Contact'
+import Projects from './Components/Projects/Projects'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <button type="submit" value="downlod cv" className="downlod-cv">Downlod Resume</button>
       </form>
       <Social  />
+      <Projects />
       <TechComponent />
     </div>
   );

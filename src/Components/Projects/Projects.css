@@ -1,0 +1,38 @@
+.project {
+    color: rgb(147, 31, 255);
+    font-family: 'Kameron', serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top:  150px; 
+    align-items: center;
+}
+
+.project-card { 
+    max-height: 180px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    text-align: center;
+    background: linear-gradient(to left bottom, #3f3f3f, #272727);
+ 
+}
+
+.disney-logo {
+        width: 200px;
+        height: 120px;
+}
+
+
+
+.project-card:hover {
+    box-shadow: rgb(0 0 0 / 80%) 0px 40px 58px -16px,
+    rgb(0 0 0 / 72%) 0px 30px 22px -10px;
+    transform: scale(1.05);
+    background-image: url("./disney-hover.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 1px solid white;
+   
+    
+
+}
