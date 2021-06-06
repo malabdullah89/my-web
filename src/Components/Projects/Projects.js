@@ -7,7 +7,7 @@ function Projects() {
         <div className="project">
             <h4>Projects</h4>
             <div className="project-card">
-                <img className="disney-logo" src={DisneyImg} />
+                <a href="https://disneymohmdev.herokuapp.com/"><img className="disney-logo" src={DisneyImg} /></a>
 
             </div>
            
